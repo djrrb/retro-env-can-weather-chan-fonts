@@ -3,4 +3,6 @@ sources:
 familyName: GWCV Crawler
 autohintTTF: false
 autohintOTF: false
+buildWebfont: false
+buildTTF: false
 buildVariable: false

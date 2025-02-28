@@ -3,4 +3,6 @@ sources:
 familyName: GWCVLogo
 autohintTTF: false
 autohintOTF: false
+buildWebfont: false
+buildTTF: false
 buildVariable: false
