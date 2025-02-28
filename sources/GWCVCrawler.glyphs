@@ -20926,29 +20926,19 @@ unicode = 92;
 },
 {
 glyphname = hyphen;
-lastChange = "2025-02-28 01:54:27 +0000";
+lastChange = "2025-02-28 02:01:16 +0000";
 layers = (
 {
 layerId = "6E00C01D-8562-4DD7-AEA9-E2E0AAE53370";
 shapes = (
 {
 alignment = -1;
-pos = (143,360);
+pos = (163,360);
 ref = bar.7;
 },
 {
 alignment = -1;
-pos = (143,420);
-ref = bar.7;
-},
-{
-alignment = -1;
-pos = (183,360);
-ref = bar.7;
-},
-{
-alignment = -1;
-pos = (183,420);
+pos = (163,420);
 ref = bar.7;
 }
 );
