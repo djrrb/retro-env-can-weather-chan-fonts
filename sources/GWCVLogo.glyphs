@@ -14885,5 +14885,5 @@ type = "italic angle";
 );
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 0;
+versionMinor = 3;
 }
